@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+gymnasium
+numpy
+pandas
+stable-baselines3
+torch
+pydantic
