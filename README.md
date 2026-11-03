@@ -1,6 +1,6 @@
 ## 🚀 Live Demo
 
-**Try the deployed Reinforcement Learning-based Smart Grid Energy Routing System!**
+**Try the deployed Reinforcement Learning for Smart Grid Energy Routing to Mitigate Power Shortfalls during El Niño Events!**
 
 - **Live Dashboard:** [Open Dashboard](https://elnino-smart-grid-dashboard.onrender.com)
 - **Backend API:** [FastAPI Backend](https://rl-smart-grid-energy-routing-el-nino.onrender.com)
